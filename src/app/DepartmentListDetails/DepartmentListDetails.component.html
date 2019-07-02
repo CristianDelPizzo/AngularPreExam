@@ -1,0 +1,21 @@
+<table class="table">
+    <thead>
+      <tr>
+        <th scope="col">Id</th>
+        <th scope="col">Name</th>
+        <th scope="col">Chief Name</th>
+        <th scope="col">Budget</th>
+        <th scope="col">Category</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>{{department.id}}</td>
+        <td>{{department.name}}</td>
+        <td>{{department.chiefName}}</td>
+        <td>{{department.budget}} €</td>
+        <td *ngIf="department.category">Tecnology</td>
+        <td *ngIf="!department.category">Commercial</td>
+      </tr>
+    </tbody>
+  </table>

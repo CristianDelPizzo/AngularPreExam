@@ -1,0 +1,12 @@
+<div style="text-align:center">
+  <h1>
+    Welcome to {{ title }}!
+  </h1>
+  
+
+  <button type="button" class="btn btn-warning" [routerLink]="'/Department'">Departments</button>
+  <button type="button" class="btn btn-warning" [routerLink]="'/Employee'">Employees</button>
+
+  <hr>
+
+  <router-outlet></router-outlet>
