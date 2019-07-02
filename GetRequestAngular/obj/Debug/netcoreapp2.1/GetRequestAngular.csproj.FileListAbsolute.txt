@@ -1,0 +1,14 @@
+C:\Users\Allievo\source\repos\GetRequestAngular\GetRequestAngular\obj\Debug\netcoreapp2.1\GetRequestAngular.csprojAssemblyReference.cache
+C:\Users\Allievo\source\repos\GetRequestAngular\GetRequestAngular\obj\Debug\netcoreapp2.1\GetRequestAngular.csproj.CoreCompileInputs.cache
+C:\Users\Allievo\source\repos\GetRequestAngular\GetRequestAngular\obj\Debug\netcoreapp2.1\GetRequestAngular.RazorAssemblyInfo.cache
+C:\Users\Allievo\source\repos\GetRequestAngular\GetRequestAngular\obj\Debug\netcoreapp2.1\GetRequestAngular.RazorAssemblyInfo.cs
+C:\Users\Allievo\source\repos\GetRequestAngular\GetRequestAngular\obj\Debug\netcoreapp2.1\GetRequestAngular.AssemblyInfoInputs.cache
+C:\Users\Allievo\source\repos\GetRequestAngular\GetRequestAngular\obj\Debug\netcoreapp2.1\GetRequestAngular.AssemblyInfo.cs
+C:\Users\Allievo\source\repos\GetRequestAngular\GetRequestAngular\bin\Debug\netcoreapp2.1\GetRequestAngular.deps.json
+C:\Users\Allievo\source\repos\GetRequestAngular\GetRequestAngular\bin\Debug\netcoreapp2.1\GetRequestAngular.runtimeconfig.json
+C:\Users\Allievo\source\repos\GetRequestAngular\GetRequestAngular\bin\Debug\netcoreapp2.1\GetRequestAngular.runtimeconfig.dev.json
+C:\Users\Allievo\source\repos\GetRequestAngular\GetRequestAngular\bin\Debug\netcoreapp2.1\GetRequestAngular.dll
+C:\Users\Allievo\source\repos\GetRequestAngular\GetRequestAngular\bin\Debug\netcoreapp2.1\GetRequestAngular.pdb
+C:\Users\Allievo\source\repos\GetRequestAngular\GetRequestAngular\obj\Debug\netcoreapp2.1\GetRequestAngular.RazorTargetAssemblyInfo.cache
+C:\Users\Allievo\source\repos\GetRequestAngular\GetRequestAngular\obj\Debug\netcoreapp2.1\GetRequestAngular.dll
+C:\Users\Allievo\source\repos\GetRequestAngular\GetRequestAngular\obj\Debug\netcoreapp2.1\GetRequestAngular.pdb
